@@ -1,0 +1,12 @@
+4. Describe the best project you have worked on, including links if any.
+
+--> I have worked as an intern in Highradius Corporation and build an AI Enabled B2B cloud Application using ML, ReactJS, JAVA, SQL, MaterialUI for account recieveables department. 
+
+In this project we have created a Machine Learning model which predicts the delay a client can make in paying back the amount for the product.
+
+Language used for handling the backend Operations was JAVA. We were involved in creating differnt servlets for handling frontend requests and we have used JDBC for database connectivity and operations handling database.
+
+We build an UI using ReactJS and Material UI with proper functionlity.
+
+Demo Photos of the app can be seen in my github repo --
+https://github.com/siddh9001/HighRadius-Intern-Project
